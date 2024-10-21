@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+}
+
+.parent {
+  background-color: rgb(237, 238, 239);
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+  height: 90px;
+  border: 0px;
+}
+
+.child1{
+  align-content: center;
+}
+
+.child1-1{
+  border-bottom: 2px solid;
+  border-color: orange;
+  align-items: center;
+  display: flex;
+}
+
+.child4{
+  background-color: black;
+  border-radius: 10px; 
+  color: white; 
+  display: none;
+}
+
+.child2{
+  justify-self: flex-end !important;
+  }
+  
+  .UstButton{
+   font-size: larger;
+   margin-right:30px;
+   border: 0px;
+  }
+
+  .child3{
+    margin-left: 0;
+    display: flex;
+    padding: 10px;
+  }
+
+  .chil3-1{
+    align-content:center ;
+  }
+
+  .Fotolu{
+    background-image: url('yeşil.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+  }
+
+   .FotoButton{
+  background-color:white;
+  color: rgb(0, 0, 0);
+  border-radius: 20px;
+  padding: 10px 25px;
+  font-family:serif;
+  margin-top: 15px;
+  font-size: 20px;
+  border: 0px;
+}
+
+.AsagıDiv{
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.AsagıDivSol{
+  margin-top: 20px;
+  margin-left: 8%;
+  width: 40%;
+}
+
+.AsagıUst{
+  margin-top: 20px;
+  display: flex;
+}
+
+.Ornekler{
+  display: flex;
+  width: 50%;
+}
+
+.OrneklerYan{
+  margin-left: 30px;
+}
+
+.AsagıAlt{
+  margin-top: 40px;
+  display: flex;
+}
+
+.ReadButton{
+  background-color:rgb(60, 49, 49);
+  color: rgb(237, 245, 243);
+  border-radius: 20px;
+  padding:10px 30px ;
+  font-size: larger;
+  margin-top: 20px;
+}
+
+.AsagıDivSag{
+  background-image: url(holding.jpg);
+  background-repeat:no-repeat;
+  background-position: center; 
+  background-size: cover;
+  margin-bottom: 50px;
+  margin-right: 8%;
+  margin-top: 20px;
+  width: 40%;
+  }
+
+
+
+
+
+
+
+
+   

@@ -1,0 +1,54 @@
+@media (max-width:1300px){/*1150*/
+    
+    .parent{
+        justify-content: 0 auto;
+     }
+
+     .child1{
+        flex-direction: column;
+        margin-left: 5%;
+        margin: 0 auto;
+        padding: 10px;
+        display: flex;
+    }
+
+    .child4{
+        align-content: center;
+        margin: 40px 10px;
+        display: flex;
+        padding: 10px;
+    }
+
+    .child2{
+        display: none;
+    }
+    .child3{
+        display: none;
+    }
+
+     .AsagıDiv{
+        display: inline;
+     }
+     .AsagıDivSol{
+        width: 80%;
+    }
+     .AsagıUst{
+        display: inline;
+    }
+    .Ornekler{
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    .OrneklerYan{
+        margin-left: 0px;
+    }
+    .AsagıAlt{
+        display: inline;
+    }
+    
+     .AsagıDivSag{
+        display: none;
+    }
+   
+}
