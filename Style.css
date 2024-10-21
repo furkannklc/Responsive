@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 
-.parent {
+.header {
   background-color: rgb(237, 238, 239);
   justify-content: space-evenly;
   align-items: center;
@@ -11,25 +11,25 @@ body{
   border: 0px;
 }
 
-.child1{
+.header-left{
   align-content: center;
 }
 
-.child1-1{
+.header-left-1{
   border-bottom: 2px solid;
   border-color: orange;
   align-items: center;
   display: flex;
 }
 
-.child4{
+.header-icon{
   background-color: black;
   border-radius: 10px; 
   color: white; 
   display: none;
 }
 
-.child2{
+.header.mid{
   justify-self: flex-end !important;
   }
   
@@ -39,13 +39,13 @@ body{
    border: 0px;
   }
 
-  .child3{
+  .header.right{
     margin-left: 0;
     display: flex;
     padding: 10px;
   }
 
-  .chil3-1{
+  .header.right-1{
     align-content:center ;
   }
 
