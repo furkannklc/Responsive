@@ -7,6 +7,7 @@ function degistir(){
         menu.style.display="none"
         icon.style.marginTop="0px"
         
+        
     }
     else{
         menu.style.display="flex"

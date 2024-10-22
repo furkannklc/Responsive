@@ -39,7 +39,7 @@ body{
    border: 0px;
   }
 
-  .header.right{
+  .header-right{
     margin-left: 0;
     display: flex;
     padding: 10px;
