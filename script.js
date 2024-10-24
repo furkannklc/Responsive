@@ -14,6 +14,4 @@ function degistir(){
         icon.style.marginTop="200px"
         icon.style.marginRight="0px"
     }
-   
-
 }
