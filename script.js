@@ -15,3 +15,6 @@ function degistir(){
         icon.style.marginRight="0px"
     }
 }
+
+
+
