@@ -50,12 +50,16 @@
     }
     .Ornekler{
         margin-top: 30px ;
+        font-size: 35px;
         width: 100% ;
     }
-
+    .yazilar{
+        font-size: 25px;
+    }
     .OrneklerYan{
         margin-left: 0px ;
     }
+    
     .AsagıAlt{
         display: inline ;
     }

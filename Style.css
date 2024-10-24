@@ -90,6 +90,10 @@ body{
   display: flex;
   width: 50%;
 }
+.yazilar{
+  font-size: 15px;
+  display: inline;
+}
 
 .OrneklerYan{
   margin-left: 30px;
